@@ -5,6 +5,8 @@
 
 # Mes extensions VS Code pour travailler avec le Markdown
 
+Voici une liste des extensions dont je suis susceptible de me servir pour travailler le Markdown sous VS Code :
+
 | Extension                                                                                                            | Installation                                                                                          | Description                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)                | [extension/yzhang.markdown-all-in-one](vscode:extension/yzhang.markdown-all-in-one)                   | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)                                                |
@@ -20,7 +22,9 @@
 | [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)            | [extension/EditorConfig.EditorConfig](vscode:extension/EditorConfig.EditorConfig)                     | EditorConfig Support for Visual Studio Code                                                                                                  |
 | [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)              | [extension/esbenp.prettier-vscode](vscode:extension/esbenp.prettier-vscode)                           | Code formatter using prettier                                                                                                                |
 
-----
-Voir aussi : 
-- [[vscode/configuration markdown\|configuration markdown]] pour VS Code
-- Quelques extensions pour Obsidian
+---
+
+Voir aussi :
+
+-   [[vscode/configuration markdown\|configuration markdown]] pour VS Code
+-   Quelques extensions pour Obsidian
