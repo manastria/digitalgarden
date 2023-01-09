@@ -3,9 +3,9 @@
 ---
 
 
-Voici la configuration que j'utilise dans les projets qui contiennent des fichiers Markdown. Ces fichiers se situent dans le répertoire `.vscode` du projet.
+Voici la configuration que j’utilise dans les projets qui contiennent des fichiers Markdown. Ces fichiers se situent dans le répertoire `.vscode`du projet.
 
-Le fichier `extensions.json` permet de proposer une liste d’extensions à installer pour le *workspace* : 
+Le fichier `extensions.json`permet de proposer une liste d’extensions à installer pour le *workspace* :
 
 ```json
 {
@@ -27,7 +27,7 @@ Le fichier `extensions.json` permet de proposer une liste d’extensions à inst
 }
 ```
 
-Le fichier `settings.json` permet de mettre en place une configuration spécifique pour le *worksapce* : 
+Le fichier `settings.json` permet de mettre en place une configuration spécifique pour le *worksapce* :
 
 ```json
 {
@@ -41,22 +41,21 @@ Le fichier `settings.json` permet de mettre en place une configuration spécifiq
         "**/.obsidian.mobile": true
     }
 }
-
 ```
 
-Le fichier commence par désactiver la règle [MD013](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) de 
+Le fichier commence par désactiver la règle [MD013](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) de
 [markdownlint](https://github.com/markdownlint/markdownlint) qui est un outil qui vérifie la syntaxe Markdown.
 
-`editor.defaultFormatter` : 
+`editor.defaultFormatter` :
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) est le formateur par défaut.
 
-`editor.formatOnSave` : 
-On format automatiquement le fichier lors de la sauvegarde
+`editor.formatOnSave` :
+On formate automatiquement le fichier lors de la sauvegarde
 
-`files.exclude` : 
+`files.exclude` :
 Liste des répertoires excluent de VS Code.
 
-Le fichier `.editorconfig` situé à la racine du *workspace* : 
+Le fichier `.editorconfig` situé à la racine du *workspace* :
 
 ```
 # EditorConfig is awesome: https://EditorConfig.org
