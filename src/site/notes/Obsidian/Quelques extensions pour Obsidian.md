@@ -5,11 +5,12 @@
 
 # Quelques extensions pour Obsidian
 
-Il existe des listes de ces différentes extensions : 
-- Sur le [site officiel](https://obsidian.md/plugins)
-- Sur le [Hub communautaire](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.01+Plugins+by+Category/%F0%9F%97%82%EF%B8%8F+02.01+Plugins+by+Category)
+Il existe des annuaires de ces différentes extensions :
 
-Il s'agit avant tout des extensions communautaire dont je pourrais avoir besoin un jour : 
+-   Sur le [site officiel](https://obsidian.md/plugins)
+-   Sur le [Hub communautaire](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.01+Plugins+by+Category/%F0%9F%97%82%EF%B8%8F+02.01+Plugins+by+Category)
+
+Il s’agit avant tout des extensions communautaires dont je pourrais avoir besoin un jour :
 
 -   Kanban : https://matthewmeye.rs/obsidian-kanban/
 -   Number Headings Plugin for Obsidian : https://github.com/onlyafly/number-headings-obsidian
@@ -46,4 +47,4 @@ Il s'agit avant tout des extensions communautaire dont je pourrais avoir besoin 
 -   Draw.io diagram : https://github.com/zapthedingbat/drawio-obsidian
 -   Update Tracker : https://github.com/swar8080/obsidian-plugin-update-tracker
 
-Visit this URL: obsidian://show-plugin?id=obsidian-plugin-update-tracker
+
