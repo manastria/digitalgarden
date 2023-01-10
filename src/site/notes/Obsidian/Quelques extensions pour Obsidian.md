@@ -25,7 +25,7 @@ Il s’agit avant tout des extensions communautaires dont je pourrais avoir beso
 -   AutoMOC [share link](obsidian://show-plugin?id=auto-moc) : https://github.com/dalcantara7/obsidian-auto-moc
 -   Yaml Manager [share link](obsidian://show-plugin?id=obsidian-state-switcher) : https://github.com/lijyze/obsidian-state-switcher
 -   Update time on edit plugin [share link](obsidian://show-plugin?id=update-time-on-edit) : https://github.com/beaussan/update-time-on-edit-obsidian
--   [[Obsidian/plugins/TimeStamper\|Time Stamper]] [share link](obsidian://show-plugin?id=obsidian-timestamper) : https://github.com/Gru80/obsidian-timestamper
+-   [[Obsidian/plugins/TimeStamper\|Time Stamper]] : Permet de saisir la date selon un format prédéfini
 -   Better Code Block [share link](obsidian://show-plugin?id=obsidian-better-codeblock) : https://github.com/stargrey/obsidian-better-codeblock
 -   Frontmatter Tag Suggest [share link](obsidian://show-plugin?id=obsidian-frontmatter-tag-suggest) : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
 -   Waypoint [share link](obsidian://show-plugin?id=waypoint) : https://github.com/IdreesInc/Waypoint
@@ -41,5 +41,6 @@ Il s’agit avant tout des extensions communautaires dont je pourrais avoir beso
 -   Style Settings [share link](obsidian://show-plugin?id=obsidian-style-settings) : https://github.com/mgmeyers/obsidian-style-settings
 -   Minimal Theme [share link](obsidian://show-plugin?id=obsidian-minimal-settings) : https://github.com/kepano/obsidian-minimal-settings
 -   Git [share link](obsidian://show-plugin?id=obsidian-git) : https://github.com/denolehov/obsidian-git
+-   [[Obsidian/plugins/Text Snippets\|Text Snippets]] : 
 
 
