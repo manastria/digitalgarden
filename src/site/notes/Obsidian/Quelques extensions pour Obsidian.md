@@ -42,5 +42,6 @@ Il s’agit avant tout des extensions communautaires dont je pourrais avoir beso
 -   Minimal Theme [share link](obsidian://show-plugin?id=obsidian-minimal-settings) : https://github.com/kepano/obsidian-minimal-settings
 -   Git [share link](obsidian://show-plugin?id=obsidian-git) : https://github.com/denolehov/obsidian-git
 -   [[Obsidian/plugins/Text Snippets\|Text Snippets]] : 
+-  [[Obsidian/plugins/Obsidian MarkMind\|Obsidian MarkMind]] : Mind mapping mais payant
 
 
