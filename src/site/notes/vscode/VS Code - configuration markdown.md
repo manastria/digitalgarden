@@ -6,9 +6,9 @@
 # VS Code - configuration markdown
 
 
-Voici la configuration que j’utilise dans les projets qui contiennent des fichiers Markdown. Ces fichiers se situent dans le répertoire `.vscode`du projet.
+Voici la configuration que j’utilise dans les projets qui contiennent des fichiers Markdown. Ces fichiers se situent dans le répertoire `.vscode` du projet.
 
-Le fichier `extensions.json`permet de proposer une liste d’extensions à installer pour le *workspace* :
+Le fichier `extensions.json` permet de proposer une liste d’extensions à installer pour le *workspace* :
 
 ```json
 {
@@ -46,21 +46,22 @@ Le fichier `settings.json` permet de mettre en place une configuration spécifiq
 }
 ```
 
-Le fichier commence par désactiver la règle [MD013](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) de
+### Explications
+- Le fichier commence par désactiver la règle [MD013](https://github.com/markdownlint/markdownlint/blob/main/docs/RULES.md) de
 [markdownlint](https://github.com/markdownlint/markdownlint) qui est un outil qui vérifie la syntaxe Markdown.
-
-`editor.defaultFormatter` :
+- `editor.defaultFormatter` :
 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) est le formateur par défaut.
-
-`editor.formatOnSave` :
+- `editor.formatOnSave` :
 On formate automatiquement le fichier lors de la sauvegarde
-
-`files.exclude` :
+- `files.exclude` :
 Liste des répertoires excluent de VS Code.
+
+## Configuration généralisé des éditeur de texte
+De nombreux éditeurs de texte supporte le projet [[editorconfig\|EditorConfig]]. Le fichier de configuration ci-dessous permet de paramétrer mes fichiers Markdown.
 
 Le fichier `.editorconfig` situé à la racine du *workspace* :
 
-```
+```editorconfig
 # EditorConfig is awesome: https://EditorConfig.org
 
 # top-most EditorConfig file
@@ -69,7 +70,7 @@ root = true
 [*]
 indent_style = space
 indent_size = 4
-end_of_line = crlf
+end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
