@@ -81,4 +81,4 @@ indent_style = space
 insert_final_newline = true
 ```
 
-Ce fichier fonctionne avec le plugin
+Ce fichier fonctionne avec le plugin [[vscode/plugins/EditorConfig for VS Code\|EditorConfig for VS Code]].
