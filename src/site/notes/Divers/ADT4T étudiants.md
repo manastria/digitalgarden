@@ -3,9 +3,13 @@
 ---
 
 
-# Avantages Microsoft
+# Avantages pour les étudiants
 
-Pour bénéficier de vos avantages, connectez-vous sur cette [page](https://signup.azure.com/studentverification?offerType=3) ou cette [page](https://portal.azure.com) en utilisant votre courriel étudiant.
+## Avantage Azure
+
+Pour bénéficier de vos avantages, connectez-vous sur cette [page](https://signup.azure.com/studentverification?offerType=3) ou cette  en utilisant votre courriel étudiant.
+
+Une fois inscrit, vous pourrez utiliser le lien [portal.azure.com](https://portal.azure.com) pour vous connecter
 
 1. Recherchez le service Education en utilisant si nécessaire la zone de recherche
 2. Acceptez les termes et condition puis accéder à la rubrique Logiciels (menu gauche) pour choisir le téléchargement de logiciels et l'accès aux licences
@@ -36,3 +40,12 @@ Queqlues produits incluts dans cette offre :
 - Visual Studio pour Mac
 - Windows 10
 - Windows Server
+
+
+## Avantage GitHub
+
+Allez sur cette [page​​​​​​​](https://education.github.com/discount_requests/student_application) pour demander vos avantages en tant qu’étudiant.
+
+
+
+
