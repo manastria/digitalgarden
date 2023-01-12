@@ -38,13 +38,14 @@ Queqlues produits incluts dans cette offre :
 - Visual Studio Community
 - Visual Studio Enterprise
 - Visual Studio pour Mac
-- Windows 10
+- Windows 10 et 11
 - Windows Server
 
 
 ## Avantage GitHub
 
-Allez sur cette [page​​​​​​​](https://education.github.com/discount_requests/student_application) pour demander vos avantages en tant qu’étudiant.
+Pour bénéficier de l'offre Azure via Github, vous avez besoin que « **Github Student Developer Pack** » soit actif. Vous pouvez faire cette demande en allant sur cette [page​​​​​​​](https://education.github.com/discount_requests/student_application).
+
 
 
 
