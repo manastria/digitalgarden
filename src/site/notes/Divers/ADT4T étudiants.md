@@ -7,6 +7,9 @@
 
 Pour bénéficier de vos avantages, connectez-vous sur cette [page](https://signup.azure.com/studentverification?offerType=3) ou cette [page](https://portal.azure.com) en utilisant votre courriel étudiant.
 
+1. Recherchez le service Education en utilisant si nécessaire la zone de recherche
+2. Acceptez les termes et condition puis accéder à la rubrique Logiciels (menu gauche) pour choisir le téléchargement de logiciels et l'accès aux licences
+
 Queqlues produits incluts dans cette offre : 
 - Microsoft Access
 - Advanced Threat Analytics
