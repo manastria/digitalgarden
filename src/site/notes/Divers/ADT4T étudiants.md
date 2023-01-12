@@ -5,7 +5,7 @@
 
 # Avantages Microsoft
 
-Pour bénéficier de vos avantages, connectez-vous sur cette [page](https://signup.azure.com/studentverification?offerType=3) ou cette [page](https://portal.azur.com) en utilisant votre courriel étudiant.
+Pour bénéficier de vos avantages, connectez-vous sur cette [page](https://signup.azure.com/studentverification?offerType=3) ou cette [page](https://portal.azure.com) en utilisant votre courriel étudiant.
 
 Queqlues produits incluts dans cette offre : 
 - Microsoft Access
