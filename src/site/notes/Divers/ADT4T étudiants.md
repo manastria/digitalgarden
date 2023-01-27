@@ -5,7 +5,7 @@
 
 # Avantages pour les étudiants
 
-## Avantage Azure
+## Avantages Azure
 
 Pour bénéficier de vos avantages, connectez-vous sur cette [page](https://signup.azure.com/studentverification?offerType=3) en utilisant votre courriel étudiant. Passez par [portal.office.com](https://portal.office.com) si vous avez des problème de connexion.
 
@@ -42,14 +42,14 @@ Queqlues produits incluts dans cette offre :
 - Windows Server
 
 
-## Avantage GitHub
+## Avantages GitHub
 
 Pour bénéficier de l'offre Azure via Github, il faut que « **Github Student Developer Pack** » soit actif.
 
 > [!caution]
 > Pour cela, votre compte GitHub doit être configuré avec votre courriel étudiant comme adresse principale.
 
-Puis, vous faites la demande en allant sur cette [page​​​​​​​](https://education.github.com/discount_requests/student_application).
+Puis, vous faites la demande en allant sur cette [page​​​​​​​](https://education.github.com/discount_requests/student_application). Il faudra fournir une photo de votre carte étudiant. Au bout de 24h environ, votre inscription au « GitHub Global Campus » sera effective.
 
 
 
