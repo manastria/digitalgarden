@@ -57,7 +57,7 @@ On formate automatiquement le fichier lors de la sauvegarde
 Liste des répertoires excluent de VS Code.
 
 ## Configuration généralisé des éditeur de texte
-De nombreux éditeurs de texte supporte le projet [[editorconfig\|EditorConfig]]. Le fichier de configuration ci-dessous permet de paramétrer mes fichiers Markdown.
+De nombreux éditeurs de texte supporte le projet [[editorconfig\|editorconfig]]. Le fichier de configuration ci-dessous permet de paramétrer mes fichiers Markdown.
 
 Le fichier `.editorconfig` situé à la racine du *workspace* :
 
