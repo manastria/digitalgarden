@@ -16,7 +16,7 @@ Il s’agit avant tout des extensions communautaires dont je pourrais avoir beso
 -   Number Headings [share link](obsidian://show-plugin?id=number-headings-obsidian) : https://github.com/onlyafly/number-headings-obsidian
 -   Tidy Footnotes [share link](obsidian://show-plugin?id=obsidian-tidy-footnotes) : https://github.com/charliecm/obsidian-tidy-footnotes
 -   Code Block Enhancer [share link](obsidian://show-plugin?id=obsidian-code-block-enhancer) : https://github.com/nyable/obsidian-code-block-enhancer
--   Consistent attachments and links [share link](obsidian://show-plugin?id=obsidian-code-block-enhancer) : https://github.com/dy-sh/obsidian-consistent-attachments-and-links
+-   [[Consistent attachments and links\|Consistent attachments and links]] [share link](obsidian://show-plugin?id=obsidian-code-block-enhancer) : https://github.com/dy-sh/obsidian-consistent-attachments-and-links
 -   Unique attachments [share link](obsidian://show-plugin?id=unique-attachments) : https://github.com/dy-sh/obsidian-unique-attachments
 -   Obsidian Rich Links [share link](obsidian://show-plugin?id=obsidian-rich-links): https://github.com/dhamaniasad/obsidian-rich-links
 -   Advanced Tables [share link](obsidian://show-plugin?id=table-editor-obsidian) : https://github.com/tgrosinger/advanced-tables-obsidian
