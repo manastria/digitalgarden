@@ -21,3 +21,7 @@ Depuis la version 2.35.3, la vérification du propriétaire du répertoire peut 
 ```
 git config --global --add safe.directory '*'
 ```
+
+
+
+
